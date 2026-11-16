@@ -1,0 +1,14 @@
+.env
+*.key
+*.pem
+secrets*
+*.pcap
+*.pcapng
+*.dmp
+*.raw
+*.E01
+*.exe
+*.dll
+*.zip
+__pycache__/
+.ipynb_checkpoints/
